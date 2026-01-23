@@ -1,0 +1,6 @@
+Task 1: The Domain Extractor (Slicing & Strings)
+Scenario: You have a list of web URLs.
+
+Goal: Create a script that takes the URL https://api.github.com/v3 and uses slicing or .split() to extract just the domain name (github.com).
+
+DevOps Value with this task: Parsing logs to see which external services your app is calling
