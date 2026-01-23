@@ -1,0 +1,6 @@
+Task 3: The Port Validator (Integers & Logic)
+Scenario: A firewall script receives a port as a string "8080".
+
+Goal: Convert the string to an integer and check if it is within the valid range (1-65535). Print "Valid" or "Invalid".
+
+DevOps Value with this task: Input validation for automation tools.
