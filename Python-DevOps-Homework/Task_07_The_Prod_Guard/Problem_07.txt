@@ -1,0 +1,6 @@
+Task 7: The "Prod" Guard (Booleans & Conditionals)
+Scenario: A script is about to delete data.
+
+Goal: Create a variable env = "production". Write an if statement that only prints "Executing Delete" if env is NOT equal to "production". Otherwise, print "Access Denied: Cannot delete in Prod!"
+
+DevOps Value with this task: Implementing safety gates in CI/CD pipelines.
