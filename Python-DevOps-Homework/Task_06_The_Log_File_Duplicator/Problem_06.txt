@@ -1,0 +1,6 @@
+Task 6: The Log File Duplicator (OS & Shutil)
+Scenario: You need to test a new log-parsing script without ruining the original files.
+
+Goal: Write a script that looks for a file named app.log and creates 5 copies of it named app_1.log, app_2.log, etc.
+
+DevOps Value with this task: Generating mock data for testing pipelines.
