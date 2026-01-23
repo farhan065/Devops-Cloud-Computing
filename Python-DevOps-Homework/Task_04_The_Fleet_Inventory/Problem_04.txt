@@ -1,0 +1,6 @@
+Task 4: The Fleet Inventory (Lists)
+Scenario: You have a list: servers = ["web01", "db01", "app01", "web02"].
+
+Goal: Use slicing to create a new list called web_servers containing only the first and last elements of the original list.
+
+DevOps Value with this task: Managing subsets of infrastructure (e.g., only update the first 50% of nodes).
