@@ -1,0 +1,6 @@
+Task 9: The Path Builder (Pathlib/OS)
+Scenario: You are working on a script that must run on both Windows and Linux.
+
+Goal: Use os.path.join to combine the variables base_dir = "/var/log", app_name = "nginx", and filename = "access.log" into one valid path.
+
+DevOps Value with this task: Avoiding hardcoded path bugs.
