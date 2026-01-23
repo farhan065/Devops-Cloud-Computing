@@ -1,0 +1,6 @@
+Task 8: The Threshold Alert (Floats & Strings)
+Scenario: Your monitoring tool returns a CPU load of 0.88.
+
+Goal: Format this float as a percentage string (e.g., "88%") using f-strings.
+
+DevOps Value with this task: Creating human-readable alerts for Slack or Email.
